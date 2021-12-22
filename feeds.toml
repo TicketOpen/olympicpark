@@ -1,5 +1,5 @@
-[olympicpark_schedule]
-title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내"
+[schedule]
+title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 날짜별보기"
 url = "https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_dselect_action.do"
 entrySelector = "tbody[id='listBody'] tr td"
 titleSelector = "dl.desc dt.text_bold a"
@@ -8,7 +8,7 @@ contentSelector = "dd.pd_t5 span.text_blue"
 imageSelector = "p.photo a img"
 waitUntil = "networkidle"
 
-[olympicpark_kspodome]
+[kspodome]
 title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내"
 url = "https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_dselect_action.do#sort2"
 entrySelector = "tbody[id='listBody'] tr td"
@@ -18,10 +18,30 @@ contentSelector = "dd.pd_t5 span.text_blue"
 imageSelector = "p.photo a img"
 waitUntil = "networkidle"
 
-[olympicpark_schedule_venue]
-title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 (장소별)"
+[venue_olympichall]
+title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 장소별보기 ─ 올림픽홀"
 url = "https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pselect_action.do"
 entrySelector = "ul li.pd_b40:nth-child(1) div table tbody tr td"
+titleSelector = "dt.text_bold a"
+linkSelector = "dt.text_bold a"
+contentSelector = "dd.pd_t5 span.text_blue"
+imageSelector = "p.photo a img"
+waitUntil = "networkidle"
+
+[venue_kspodome]
+title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 장소별보기 ─ 체조경기장"
+url = "https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pselect_action.do"
+entrySelector = "ul li.pd_b40:nth-child(2) div table tbody tr td"
+titleSelector = "dt.text_bold a"
+linkSelector = "dt.text_bold a"
+contentSelector = "dd.pd_t5 span.text_blue"
+imageSelector = "p.photo a img"
+waitUntil = "networkidle"
+
+[venue_skhandball]
+title = "올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 장소별보기 ─ SK핸드볼경기장"
+url = "https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pselect_action.do"
+entrySelector = "ul li.pd_b40:nth-child(3) div table tbody tr td"
 titleSelector = "dt.text_bold a"
 linkSelector = "dt.text_bold a"
 contentSelector = "dd.pd_t5 span.text_blue"
