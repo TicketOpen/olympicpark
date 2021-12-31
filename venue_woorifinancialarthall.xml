@@ -4,14 +4,30 @@
         <title>올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 장소별보기 ─ 우리금융아트홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 05:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉]]></title>
+            <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4536&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</link>
+            <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4536&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</guid>
+            <pubDate>Fri, 31 Dec 2021 17:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-05 ~ 2022-01-16]]></content:encoded>
+            <enclosure url="https://www.ksponco.or.kr/jsp/upload_files/PfmcEvtGud/atch_image/%ED%97%AC%EB%A1%9C%EC%B9%B4%EB%B4%87.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉]]></title>
+            <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4534&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</link>
+            <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4534&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</guid>
+            <pubDate>Fri, 31 Dec 2021 17:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-21 ~ 2022-03-01]]></content:encoded>
+            <enclosure url="https://www.ksponco.or.kr/jsp/upload_files/PfmcEvtGud/atch_image/%ED%95%91%ED%81%AC%ED%90%81.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2021 최현우 〈THE BRAIN〉]]></title>
-            <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4533&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2021&amp;txtMonth=12</link>
-            <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4533&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2021&amp;txtMonth=12</guid>
-            <pubDate>Wed, 22 Dec 2021 08:04:53 GMT</pubDate>
+            <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4533&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</link>
+            <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4533&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</guid>
+            <pubDate>Fri, 31 Dec 2021 17:51:08 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-03 ~ 2022-01-02]]></content:encoded>
             <enclosure url="https://www.ksponco.or.kr/jsp/upload_files/PfmcEvtGud/atch_image/%EC%B5%9C%ED%98%84%EC%9A%B0(0).gif" length="0" type="image/gif"/>
         </item>
