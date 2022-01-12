@@ -4,9 +4,17 @@
         <title>올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 장소별보기 ─ 올림픽홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 17:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬원 팬콘서트 〈ONE MORE CHAN’S〉 서울 앵콜]]></title>
+            <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4538&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</link>
+            <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4538&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-28 ~ 2022-01-30]]></content:encoded>
+            <enclosure url="https://www.ksponco.or.kr/jsp/upload_files/PfmcEvtGud/atch_image/%EC%9D%B4%EC%B0%AC%EC%9B%90(0).gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 SF9 LIVE FANTASY ＃3 IMPERFECT]]></title>
             <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_pinfo_action.do?CUST_MNGR_MENU_STATE=HOME&amp;CRUD_C_CD=R&amp;txtPFMC_EVT_GUD_SEQ_N=4537&amp;txtREF_TBL_C_CD=02&amp;txtPage=1&amp;txtYear=2022&amp;txtMonth=01</link>
