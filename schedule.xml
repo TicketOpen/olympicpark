@@ -4,7 +4,7 @@
         <title>올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 ─ 날짜별보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 17:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,7 +67,7 @@
             <title><![CDATA[7]]></title>
             <link>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_dselect_action.do</link>
             <guid>https://olympicpark.kspo.or.kr:441/jsp/homepage/contents/culture/schedule_dselect_action.do</guid>
-            <pubDate>Wed, 01 Jun 2022 17:49:09 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 05:52:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
