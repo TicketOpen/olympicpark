@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/olympicpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-31T17:44:57.569Z</updated>
+    <updated>2022-09-01T06:09:11.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (올림픽공원 ─ 조이올팍 공연/행사 ─ 일정안내 ─ 날짜별보기)]]></title>
         <id>https://TicketOpen.github.io/olympicpark/all.xml</id>
         <link href="https://TicketOpen.github.io/olympicpark/all.xml"/>
-        <updated>2022-08-31T17:44:42.163Z</updated>
+        <updated>2022-09-01T06:08:56.556Z</updated>
         <content type="html"><![CDATA[등록된 일정이 없습니다.]]></content>
     </entry>
 </feed>
